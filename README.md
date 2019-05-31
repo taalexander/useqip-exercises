@@ -30,5 +30,5 @@ and get started by opening the `exercises/0_getting_started.ipynb` notebook. Mak
 ## Questions?
 Ask! Feel free to email us with any additional questions or ask in our community [Slack channel](https://join.slack.com/t/qiskit/shared_invite/enQtNjQ5OTc5ODM1ODYyLTBlMWY1ZGJiYmZkNjliZTY4MTViNTQ3NzI2ZmU2MzQxZjlhZDZlYTAzZTNlMDU0ZjVmNzEyMzY3OGE1Y2UyNjk).
 
-## What to Contribute?
+## Want to Contribute?
 Qiskit is opensource and we love to work with our amazing community. We're aiming to build the defacto standard quantum computing framework and always welcome new contributors and researchers. Check out our [contributing guidelines](https://github.com/Qiskit/qiskit/blob/master/.github/CONTRIBUTING.md).
